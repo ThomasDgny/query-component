@@ -7,14 +7,12 @@
   <p align="center">
 	 URL status checker and error identification.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Live</a>
+    <a href="https://query-component-l5ky.vercel.app/">View Live</a>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 
 # About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 URLQueryComponent is a React component built using TypeScript that enables users to input a URL and perform a data fetch operation to check its accessibility or identify any errors. This component supports various HTTP methods for flexible URL checks.
 
